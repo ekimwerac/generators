@@ -5,3 +5,5 @@ def square_generator(n):
 # Using the generator in a for loop
 for result in square_generator(5):
     print(result)
+
+#list1=[]
